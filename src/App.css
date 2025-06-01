@@ -1,0 +1,21 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #222831;
+  color: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input {
+  padding: 10px;
+}
+body {
+  background-color: #f96d00;
+}
+
+button {
+  margin-top: 30px;
+}
